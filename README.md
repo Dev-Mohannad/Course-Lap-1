@@ -1,2 +1,5 @@
-# Course-Lap-1
-A web development project created for  College of Communications and Information
+| Technology | Description |
+|-----------|-------------|
+| Laravel | Backend framework for web applications |
+| Next.js | React framework for frontend development |
+| Flutter | Framework for building mobile applications |
